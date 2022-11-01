@@ -1,1 +1,3 @@
 # CNIFaceResource
+
+git lfs track "*"
