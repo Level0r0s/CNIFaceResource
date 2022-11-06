@@ -25,3 +25,12 @@ relay_models/x86_llvm/genderage.so filter=lfs diff=lfs merge=lfs -text
 relay_models/x86_llvm/mnet_cov2.params filter=lfs diff=lfs merge=lfs -text
 relay_models/x86_llvm/w600k_mbf.json filter=lfs diff=lfs merge=lfs -text
 relay_models/x86_llvm/w600k_mbf.params filter=lfs diff=lfs merge=lfs -text
+relay_models/x86_llvm/ch_PP-OCRv3_rec_infer.params filter=lfs diff=lfs merge=lfs -text
+relay_models/x86_llvm/ch_ppocr_mobile_v2.0_cls_infer.json filter=lfs diff=lfs merge=lfs -text
+relay_models/x86_llvm/ch_ppocr_mobile_v2.0_cls_infer.params filter=lfs diff=lfs merge=lfs -text
+relay_models/x86_llvm/ch_ppocr_mobile_v2.0_cls_infer.so filter=lfs diff=lfs merge=lfs -text
+relay_models/x86_llvm/ch_PP-OCRv3_det_infer.json filter=lfs diff=lfs merge=lfs -text
+relay_models/x86_llvm/ch_PP-OCRv3_det_infer.so filter=lfs diff=lfs merge=lfs -text
+relay_models/x86_llvm/ch_PP-OCRv3_rec_infer.json filter=lfs diff=lfs merge=lfs -text
+relay_models/x86_llvm/ch_PP-OCRv3_rec_infer.so filter=lfs diff=lfs merge=lfs -text
+relay_models/x86_llvm/ch_PP-OCRv3_det_infer.params filter=lfs diff=lfs merge=lfs -text
