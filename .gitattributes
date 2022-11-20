@@ -34,3 +34,6 @@ relay_models/x86_llvm/ch_PP-OCRv3_det_infer.so filter=lfs diff=lfs merge=lfs -te
 relay_models/x86_llvm/ch_PP-OCRv3_rec_infer.json filter=lfs diff=lfs merge=lfs -text
 relay_models/x86_llvm/ch_PP-OCRv3_rec_infer.so filter=lfs diff=lfs merge=lfs -text
 relay_models/x86_llvm/ch_PP-OCRv3_det_infer.params filter=lfs diff=lfs merge=lfs -text
+models/ch_PP-OCRv3_rec_infer.onnx filter=lfs diff=lfs merge=lfs -text
+models/ch_ppocr_mobile_v2.0_cls_infer.onnx filter=lfs diff=lfs merge=lfs -text
+models/ch_PP-OCRv3_det_infer.onnx filter=lfs diff=lfs merge=lfs -text
